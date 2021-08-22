@@ -1,0 +1,74 @@
+{
+"merchandiseData": [
+	{
+		"clientID": 3003,
+		"name": "Yasir Carter",
+		"phone": "(758) 564-5345",
+		"email": "leo.vivamus@pedenec.net",
+		"address": "P.O. Box 881, 2723 Elementum, St.",
+		"postalZip": "DX2I 2LD",
+		"numberrange": 10,
+		"name1": "Harlan Mccarty",
+		"constant": ".com",
+		"text": "deserunt",
+		"url": "https://www.deserunt.com",
+		"text": "https://www."
+	},
+	{
+		"clientID": 3103,
+		"name": "Elaine Mccullough",
+		"phone": "1-265-168-1287",
+		"email": "sodales@enimcondimentum.net",
+		"address": "7529 Dui. St.",
+		"postalZip": "24768-76452",
+		"numberrange": 9,
+		"name1": "Kaseem Petersen",
+		"constant": ".com",
+		"text": "aliquip",
+		"url": "https://www.aliquip.com",
+		"text": "https://www."
+	},
+	{
+		"clientID": 3203,
+		"name": "Vanna Elliott",
+		"phone": "(113) 485-7272",
+		"email": "elit.a@dui.org",
+		"address": "Ap #368-6127 Lacinia Av.",
+		"postalZip": "6200",
+		"numberrange": 5,
+		"name1": "Kennan Holloway",
+		"constant": ".net",
+		"text": "sed",
+		"url": "https://www.sed.net",
+		"text": "https://www."
+	},
+	{
+		"clientID": 3303,
+		"name": "Adrienne Holden",
+		"phone": "1-146-431-3745",
+		"email": "lacus.quisque@magnapraesentinterdum.co.uk",
+		"address": "Ap #522-3209 Euismod St.",
+		"postalZip": "66746",
+		"numberrange": 3,
+		"name1": "Octavia Lambert",
+		"constant": ".net",
+		"text": "ad",
+		"url": "https://www.ad.net",
+		"text": "https://www."
+	},
+	{
+		"clientID": 3403,
+		"name": "Freya Vang",
+		"phone": "(858) 195-4886",
+		"email": "diam.dictum@velmauris.net",
+		"address": "P.O. Box 159, 416 Dui Ave",
+		"postalZip": "158425",
+		"numberrange": 4,
+		"name1": "Kitra Maynard",
+		"constant": ".edu",
+		"text": "Excepteur",
+		"url": "https://www.Excepteur.edu",
+		"text": "https://www."
+	}
+]
+}
